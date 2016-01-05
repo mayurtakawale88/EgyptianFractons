@@ -18,7 +18,7 @@ Your task is to write a program that calculates the ratio of two numbers as an E
 
 	3. Execute the program
 	 ``` 
-	     php  EgyptianFractons/EgyptionFractions.php {{numerator}} {{denominator}}
+	     php  EgyptionFractions.php {{numerator}} {{denominator}}
          Note :- To find Egyption Fraction of 5/121, replace {{numerator}} with 5 and {{denominator}} with 121
  	 ```
 ### User manual for Browser execution 
